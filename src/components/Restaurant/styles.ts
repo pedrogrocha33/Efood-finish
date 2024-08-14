@@ -46,4 +46,3 @@ export const Categories = styled.div`
   top: 0;
   right: 16px;
 `
-
